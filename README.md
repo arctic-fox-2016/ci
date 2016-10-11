@@ -7,10 +7,10 @@ sign in with github account
 
 1. Add new repository by click plus sign at left sidebar next to My Repositories
 
-- click Sync account button first
-- check the list of repositories desired to be use on travis-ci
-- click one of the repositories list
-- watch it,  when git push fires from terminal travis will automatically test & build it
+2. click Sync account button first
+3. check the list of repositories desired to be use on travis-ci
+4. click one of the repositories list
+5. watch it,  when git push fires from terminal travis will automatically test & build it
 
 
 ##### ** Note
