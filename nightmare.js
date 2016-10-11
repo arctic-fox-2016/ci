@@ -1,5 +1,6 @@
 var Nightmare = require('nightmare');
 var nightmare = Nightmare({ show: true })
+var should = require('chai').should();
 
 nightmare
   .goto('http://localhost:3000/')
