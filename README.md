@@ -1,4 +1,4 @@
-# ci
+# Continous Integrations with TravisCI
 https://github.com/sahbanagold/continous_integrations
 
 go to https://travis-ci.org/
