@@ -21,3 +21,9 @@ before_install:
   - nvm install "6"
 ```
 at the top of yml file
+
+screenshots of success build examples:
+
+![alt tag](https://github.com/arctic-fox-2016/ci/blob/sahbana/screenshots/citesting.png)
+![alt tag](https://github.com/arctic-fox-2016/ci/blob/sahbana/screenshots/citesting2.png)
+![alt tag](https://github.com/arctic-fox-2016/ci/blob/sahbana/screenshots/citestinggithub.png)
